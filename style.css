@@ -55,6 +55,7 @@ td {
 img {
 	border: none;
 	max-width: 100%;
+	border-radius: 10%;
 }
 	/* removes outlines from linked images (for older browsers and IE), sets up images for responsive design layout */
 
@@ -98,3 +99,10 @@ sub, sup {
 	line-height: 0;
 }
     /* sets superscript and subscript text so that it doesn't throw off leading for elements in which they are included */
+
+#saints {
+	width: 60%;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+}
