@@ -37,6 +37,7 @@ p {
 	-webkit-hyphens: auto;
 	-ms-hyphens: auto;
 	hyphens: auto;
+	width: 650px;
 }
 	/* sets hyphenation by default on paragraphs */
 
