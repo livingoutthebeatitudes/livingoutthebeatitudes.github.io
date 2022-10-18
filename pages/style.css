@@ -16,6 +16,7 @@ html, body {
 
 h1 {
 	/* font-size: 1.4 rem; */
+	margin-left: 20px;
 	color:black;}
 h3 {
 width: 650px}
@@ -105,8 +106,17 @@ sub, sup {
 
 .row {
 	display: flex;
+	margin-left: 20px;
 	}
 
 .column {
 flex: 25%;
+}
+
+#finalPrayers {
+	margin-left: 20px;
+}
+
+#returnButton {
+	margin-left: 20px;
 }
