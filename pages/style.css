@@ -30,6 +30,7 @@ p {
 	hyphens: auto;
 	color:black;
 	width: 650px;
+	margin-left: 20px;
 }
 
 body, ul, ol, dl {
