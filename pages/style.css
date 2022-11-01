@@ -19,7 +19,9 @@ h1 {
 	margin-left: 20px;
 	color:black;}
 h3 {
-width: 650px}
+        width: 650px;
+        margin-left: 20px;
+   }
 p {
 	-ms-word-break: break-all;
 	word-break: break-all;
@@ -61,6 +63,7 @@ td {
 img {
 	border: none;
 	max-width: 100%;
+        margin-left: 20px;
 }
 	/* removes outlines from linked images (for older browsers and IE), sets up images for responsive design layout */
 
