@@ -108,6 +108,10 @@ sub, sup {
 }
     /* sets superscript and subscript text so that it doesn't throw off leading for elements in which they are included */
 
+button {
+	margin-left: 20px;
+}
+
 .row {
 	display: flex;
 	margin-left: 20px;
