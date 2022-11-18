@@ -1,3 +1,5 @@
+<link href='https://fonts.googleapis.com/css?family=Allura' rel='stylesheet'>
+
 /* * {
 	box-sizing: border-box;
 }
@@ -17,9 +19,11 @@ html, body {
 h1 {
 	/* font-size: 1.4 rem; */
 	margin-left: 20px;
-	color:black;}
+	color:black;
+        font-family: 'Allura';
+   }
 h3 {
-        width: 650px;
+        width: 400px;
         margin-left: 20px;
    }
 p {
