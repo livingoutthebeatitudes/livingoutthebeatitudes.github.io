@@ -31,8 +31,9 @@ p {
 	-ms-hyphens: auto;
 	hyphens: auto;
 	color:black;
-	width: 325px;
+	width: 400px;
 	margin-left: 20px;
+        font-size: 18px;
 }
 
 body, ul, ol, dl {
