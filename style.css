@@ -106,3 +106,15 @@ sub, sup {
 	display: block;
 	border-radius: 50%;
 }
+
+a {
+    padding-bottom: 20px;
+}
+
+form > button {
+    padding-bottom: 20px;
+}
+
+button {
+    padding-bottom: 20px;
+}
